@@ -1,0 +1,6 @@
+framework module AFNtest {
+  umbrella header "AFNtest-umbrella.h"
+
+  export *
+  module * { export * }
+}

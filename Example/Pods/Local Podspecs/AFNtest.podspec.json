@@ -1,0 +1,27 @@
+{
+  "name": "AFNtest",
+  "version": "1",
+  "summary": "A short description of AFNtest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TAPart/AFNtest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ra2212": "xhf@tsinghua.com"
+  },
+  "source": {
+    "git": "https://github.com/TAPart/AFNtest.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AFNtest/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 4.0.1"
+    ]
+  }
+}
